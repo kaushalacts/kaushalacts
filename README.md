@@ -6,7 +6,8 @@
 * Enthusiast about system on chip and VLSI technology.
 * Open to Intenship Opportunities in hardware domian.
 * An Open source contributer.
-
+* Python/Django Developer. 
+* MERN stack Developer. 
 <h2 > Connect with me </h2>
 <p float="left">
 <p align='center' float="left">
