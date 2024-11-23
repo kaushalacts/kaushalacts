@@ -1,34 +1,13 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Kaushal Kishore</h1>
+<h3 align="center">🌌 Tech Explorer | Networking Pro | Cloud & DevOps Aficionado</h3>
 
-* I am Kaushal Kishore, final year student from JKIAPT.
-* I love to work with sensors and customization of chip.
-* Favourite module :- ESP8266
-* Enthusiast about system on chip and VLSI technology.
-* Open to Intenship Opportunities in hardware domian.
-* An Open source contributer.
-* Python/Django Developer. 
-* MERN stack Developer. 
-<h2 > Connect with me </h2>
-<p float="left">
-<p align='center' float="left">
-      
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaushalkishoremnt2000@gmail.com)](mailto:kaushalkishoremnt2000@gmail.com) &nbsp;&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-005875?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushalkishore1/)](https://www.linkedin.com/in/kaushalkishore1/) &nbsp;&nbsp;
-[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/kaushalacts)](https://www.github.com/kaushalacts) &nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fc03c2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaushalacts/)](https://www.instagram.com/kaushalacts/) &nbsp;&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-04a0d4?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kaushalacts)](https://twitter.com/kaushalacts/) &nbsp;&nbsp;
+- 🌱 I’m currently learning **DevOps | Cloud | Linux Networking**
 
-<h1> Stuffs I have been working on &#x26A1 </h1>
-<p float="left">
-<p align='center' float="left">
-<img src="https://user-images.githubusercontent.com/84225692/121073289-f404d280-c7ef-11eb-8c24-550b9ec71d35.png" alt="drawing" width="40px"/> 
-<img src="https://user-images.githubusercontent.com/59508627/194926280-715aeb08-930c-49ca-b47a-dfb47e4e0257.png" alt="drawing" width="50px" margin="70px"/>
-<img src="https://user-images.githubusercontent.com/59508627/194926630-08a8d70e-4d9a-490d-bc68-6664c1836883.png" alt="drawing" width="80px"/>
-<img src="https://user-images.githubusercontent.com/59508627/194927034-4101887d-be49-49e7-8abd-f84696f18b54.png" alt="drawing" width="60px"/>     
-<img src="https://user-images.githubusercontent.com/59508627/194927676-b0906dd9-ba8d-496c-82f0-6c04b532772e.png" alt="drawing" width="60px"/>
-<img src="https://user-images.githubusercontent.com/83864140/159668101-a8d5af37-cb51-4b2e-aa93-d108597f9a5f.png" alt="drawing" width="60px height="60px"/>
-<img src="https://user-images.githubusercontent.com/59508627/194930671-4b79e43c-b42b-4400-9347-5895be6d0761.png" alt="drawing" width="70px"/>
-<img src="https://user-images.githubusercontent.com/59508627/194930222-c850bc8b-1412-4d4f-9265-c9aad4482ece.png" alt="drawing" width="50px"/>
-<!-- <img src="https://user-images.githubusercontent.com/83864140/147858436-37ba7f32-e49a-4764-a825-5ef6e9517901.png" alt="drawing" width="70px"/> -->
-<br></br>
+- 📫 How to reach me **kaushalkishoremnt2000@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
