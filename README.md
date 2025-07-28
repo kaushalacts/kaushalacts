@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20NetOps%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
 
 <div align="center">
   
