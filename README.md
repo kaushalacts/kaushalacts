@@ -203,8 +203,8 @@
 
 <div align="center">
 
-[![Jenkins FinOps Reduction](https://github-readme-stats.vercel.app/api/pin/?username=kaushalacts&repo=jenkins-finops-reduction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff)]([https://github.com/kaushalacts/jenkins-finops-reduction](https://github.com/kaushalacts/jenkins-finops-cost-reduction))
-[![Python DevOps](https://github-readme-stats.vercel.app/api/pin/?username=kaushalacts&repo=python-devops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff)]([(https://github.com/kaushalacts/game-2048-EKS)])
+[![Game 2048 EKS](https://github-readme-stats.vercel.app/api/pin/?username=kaushalacts&repo=game-2048-EKS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff)](https://github.com/kaushalacts/game-2048-EKS)
+[![Jenkins FinOps Cost Reduction](https://github-readme-stats.vercel.app/api/pin/?username=kaushalacts&repo=jenkins-finops-cost-reduction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff)](https://github.com/kaushalacts/jenkins-finops-cost-reduction)
 
 </div>
 
