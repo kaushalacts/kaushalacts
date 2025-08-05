@@ -81,9 +81,24 @@
 ### 🏆 **KodeKloud Achievements & Progress**
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
 <a href="https://engineer.kodekloud.com/progress">
-<img src="https://img.shields.io/badge/Visit%20My%20KodeKloud%20Profile-Click%20Here-FF6B35?style=for-the-badge&logo=external-link&logoColor=white" alt="KodeKloud Profile"/>
-</a>
+<img src="https://img.shields.io/badge/Progress%20Dashboard-View%20Journey-FF6B35?style=for-the-badge&logo=chart-line&logoColor=white" alt="KodeKloud Progress"/>
+</a><br>
+<sub><strong>📊 Learning Progress & Stats</strong></sub>
+</td>
+<td align="center">
+<a href="https://engineer.kodekloud.com/practice">
+<img src="https://img.shields.io/badge/Practice%20Labs-Hands%20On%20Learning-4CAF50?style=for-the-badge&logo=flask&logoColor=white" alt="KodeKloud Practice"/>
+</a><br>
+<sub><strong>🧪 Interactive Lab Environment</strong></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 #### 🔥 **Current Focus Areas:**
@@ -137,8 +152,28 @@ recent_kodekloud_achievements:
 ### 📝 **Daily Learning Log**
 <div align="center">
 
-[![KodeKloud Progress](https://img.shields.io/badge/Follow%20My%20Journey-KodeKloud%20Engineer-FF6B35?style=for-the-badge&logo=kubernetes)](https://engineer.kodekloud.com/progress)
-[![LinkedIn Updates](https://img.shields.io/badge/Daily%20Updates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushalacts/)
+<table>
+<tr>
+<td align="center">
+<a href="https://engineer.kodekloud.com/progress">
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-KodeKloud%20Progress-FF6B35?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a><br>
+<sub><strong>📈 Track My Learning Journey</strong></sub>
+</td>
+<td align="center">
+<a href="https://engineer.kodekloud.com/practice">
+<img src="https://img.shields.io/badge/Practice%20Labs-Live%20Environment-4CAF50?style=for-the-badge&logo=terminal&logoColor=white"/>
+</a><br>
+<sub><strong>⚡ Hands-on Lab Practice</strong></sub>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/kaushalacts/">
+<img src="https://img.shields.io/badge/Daily%20Updates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br>
+<sub><strong>📱 Follow Daily Updates</strong></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
