@@ -1,4 +1,4 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20NetOps%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
+[![100DaysOfDevOps](https://img.shields.io/badge/%23100DaysOfDevOps-Day%2015-9D4EDD?style=for-the-badge&logo=calendar)](https://engineer.kodekloud.com/progress)# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20NetOps%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Follow-2962FF?style=for-the-badge&logo=hashnode)](https://kaushalacts.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushalacts)
 [![KodeKloud](https://img.shields.io/badge/KodeKloud-Engineer%20Profile-FF6B35?style=for-the-badge&logo=kubernetes)](https://engineer.kodekloud.com/progress)
-[![100DaysOfDevOps](https://img.shields.io/badge/%23100DaysOfDevOps-Day%2015-9D4EDD?style=for-the-badge&logo=calendar)](https://kaushalacts.hashnode.dev/)
+
 
 </div>
 
@@ -137,7 +137,7 @@ recent_kodekloud_achievements:
 ### 📝 **Daily Learning Log**
 <div align="center">
 
-[![100 Days DevOps](https://img.shields.io/badge/Follow%20My%20Journey-%23100DaysOfDevOps-9D4EDD?style=for-the-badge&logo=hashnode)](https://kaushalacts.hashnode.dev/)
+[![KodeKloud Progress](https://img.shields.io/badge/Follow%20My%20Journey-KodeKloud%20Engineer-FF6B35?style=for-the-badge&logo=kubernetes)](https://engineer.kodekloud.com/progress)
 [![LinkedIn Updates](https://img.shields.io/badge/Daily%20Updates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushalacts/)
 
 </div>
