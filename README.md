@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushalacts/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Follow-2962FF?style=for-the-badge&logo=hashnode)](https://kaushalacts.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushalacts)
+[![KodeKloud](https://img.shields.io/badge/KodeKloud-Engineer%20Profile-FF6B35?style=for-the-badge&logo=kubernetes)](https://engineer.kodekloud.com/progress)
+[![100DaysOfDevOps](https://img.shields.io/badge/%23100DaysOfDevOps-Day%2015-9D4EDD?style=for-the-badge&logo=calendar)](https://kaushalacts.hashnode.dev/)
 
 </div>
 
@@ -28,6 +30,7 @@
 ### 🔥 **What I'm Building:**
 - 🏗️ **Enterprise DevOps Pipelines** with GitOps
 - ☁️ **Multi-Cloud Infrastructure** (AWS, Azure, GCP)
+- 🎯 **100 Days of DevOps** - Active KodeKloud Engineer Journey
 - 🤖 **AI/ML MLOps** Platforms & GenAI Integration
 - 🔧 **Microservices Architecture** with Kubernetes
 - 🛡️ **Security-First** Infrastructure (DevSecOps)
@@ -51,6 +54,127 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🎯 **100 Days of DevOps Journey**
+
+<div align="center">
+
+### 📚 **KodeKloud Learning Progress**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://engineer.kodekloud.com/progress">
+<img src="https://img.shields.io/badge/KodeKloud-Engineer%20Dashboard-FF6B35?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a><br>
+<sub><strong>🚀 Active Learning Dashboard</strong></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/%23100DaysOfDevOps-Day%2015-9D4EDD?style=for-the-badge&logo=calendar&logoColor=white"/><br>
+<sub><strong>📅 Daily DevOps Challenges</strong></sub>
+</td>
+</tr>
+</table>
+
+### 🏆 **KodeKloud Achievements & Progress**
+
+<div align="center">
+<a href="https://engineer.kodekloud.com/progress">
+<img src="https://img.shields.io/badge/Visit%20My%20KodeKloud%20Profile-Click%20Here-FF6B35?style=for-the-badge&logo=external-link&logoColor=white" alt="KodeKloud Profile"/>
+</a>
+</div>
+
+#### 🔥 **Current Focus Areas:**
+<p align="center">
+<img src="https://img.shields.io/badge/Linux%20Administration-In%20Progress-success?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker%20%26%20Containerization-Active-blue?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes%20Deep%20Dive-Learning-purple?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Ansible%20Automation-Practicing-red?style=flat-square&logo=ansible"/>
+<img src="https://img.shields.io/badge/Terraform%20IaC-Building-blueviolet?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-Implementing-orange?style=flat-square&logo=jenkins"/>
+</p>
+
+#### 📊 **Learning Statistics** *(Updated Weekly)*
+<table align="center">
+<tr>
+<td align="center">
+<strong>🎯 Challenges Completed</strong><br>
+<img src="https://img.shields.io/badge/Total-15+-brightgreen?style=for-the-badge"/>
+</td>
+<td align="center">
+<strong>⏱️ Hours Invested</strong><br>
+<img src="https://img.shields.io/badge/Learning-30h+-blue?style=for-the-badge"/>
+</td>
+<td align="center">
+<strong>🏅 Current Level</strong><br>
+<img src="https://img.shields.io/badge/KodeKloud-Engineer-FF6B35?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+#### 🚀 **Recent Accomplishments**
+```yaml
+recent_kodekloud_achievements:
+  current_day: "Day 15 of #100DaysOfDevOps"
+  week_focus: "Linux System Administration & Ansible Automation"
+  challenges_completed_this_week: 5
+  skills_gained:
+    - "User Management & Account Policies"
+    - "Linux File Permissions & Security"
+    - "Ansible Playbook Development"
+    - "Docker Container Management"
+    - "Basic Kubernetes Operations"
+  
+  upcoming_targets:
+    - "Advanced Kubernetes Networking"
+    - "Terraform Infrastructure Provisioning"
+    - "CI/CD Pipeline Setup with Jenkins"
+    - "Monitoring Stack Implementation"
+```
+
+### 📝 **Daily Learning Log**
+<div align="center">
+
+[![100 Days DevOps](https://img.shields.io/badge/Follow%20My%20Journey-%23100DaysOfDevOps-9D4EDD?style=for-the-badge&logo=hashnode)](https://kaushalacts.hashnode.dev/)
+[![LinkedIn Updates](https://img.shields.io/badge/Daily%20Updates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushalacts/)
+
+</div>
+
+#### 🎯 **Challenge Categories Progress**
+<table>
+<tr>
+<td align="center">
+<strong>🐧 Linux</strong><br>
+<img src="https://progress-bar.dev/25/?title=Progress&width=120&color=28a745"/>
+</td>
+<td align="center">
+<strong>🐳 Docker</strong><br>
+<img src="https://progress-bar.dev/20/?title=Progress&width=120&color=2196f3"/>
+</td>
+<td align="center">
+<strong>☸️ Kubernetes</strong><br>
+<img src="https://progress-bar.dev/15/?title=Progress&width=120&color=326ce5"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>🔧 Ansible</strong><br>
+<img src="https://progress-bar.dev/18/?title=Progress&width=120&color=ee0000"/>
+</td>
+<td align="center">
+<strong>🏗️ Terraform</strong><br>
+<img src="https://progress-bar.dev/10/?title=Progress&width=120&color=623ce4"/>
+</td>
+<td align="center">
+<strong>🔄 CI/CD</strong><br>
+<img src="https://progress-bar.dev/12/?title=Progress&width=120&color=d24939"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 

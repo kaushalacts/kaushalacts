@@ -1,0 +1,40 @@
+name: Update 100 Days DevOps Progress
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+        
+      - name: Update day counter
+        run: |
+          # Calculate days since start date (adjust this to your actual start date)
+          start_date="2024-01-01"  # Replace with your actual start date
+          current_date=$(date +%Y-%m-%d)
+          days_diff=$(( ($(date -d "$current_date" +%s) - $(date -d "$start_date" +%s)) / 86400 + 1 ))
+          
+          # Update the day counter in README
+          sed -i "s/Day%20[0-9]*/Day%20$days_diff/g" README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update: Day $days_diff of #100DaysOfDevOps"
+            git push
+          fi
