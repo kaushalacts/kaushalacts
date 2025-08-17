@@ -1,4 +1,4 @@
-[![100DaysOfDevOps](https://img.shields.io/badge/%23100DaysOfDevOps-Day%20588-9D4EDD?style=for-the-badge&logo=calendar)](https://engineer.kodekloud.com/progress)# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20NetOps%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
+[![100DaysOfDevOps](https://img.shields.io/badge/%23100DaysOfDevOps-Day%20595-9D4EDD?style=for-the-badge&logo=calendar)](https://engineer.kodekloud.com/progress)# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Kaushal%20Kishore&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20NetOps%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=25)</div>
 
 <div align="center">
   
@@ -72,7 +72,7 @@
 <sub><strong>🚀 Active Learning Dashboard</strong></sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/%23100DaysOfDevOps-Day%20588-9D4EDD?style=for-the-badge&logo=calendar&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/%23100DaysOfDevOps-Day%20595-9D4EDD?style=for-the-badge&logo=calendar&logoColor=white"/><br>
 <sub><strong>📅 Daily DevOps Challenges</strong></sub>
 </td>
 </tr>
