@@ -111,7 +111,7 @@ I'm a DevOps Engineer and Cloud Enthusiast passionate about automating infrastru
 ### 💡 Open to:
 - DevOps and Cloud Architecture collaboration
 - Open source project contributions
-- Technical mentoring and knowledge sharing
+  
 - Consulting on cloud infrastructure and automation
 
 ---
