@@ -1,124 +1,73 @@
-# 👋 Hey there! I'm Kaushal Kishore
+# 💎 **KAUSHAL KISHORE** – Cloud Architect & DevOps Engineer
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗        ║
-║   ██╔══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝        ║
-║   ██║  ██║█████╗  ██║   ██║██║   ██║██████╔╝███████╗        ║
-║   ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║        ║
-║   ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║        ║
-║   ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝        ║
-║                                                               ║
-║          🚀 Cloud Native Engineer | GitOps Enthusiast        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    🚀 BUILDING CLOUD INFRASTRUCTURE                       ║
+║                    AUTOMATING ENTERPRISE SYSTEMS                          ║
+║                    SCALING KUBERNETES ACROSS CLOUDS                       ║
+║                                                                            ║
+║              Cloud Native | DevOps | Infrastructure as Code               ║
+║              GitOps | Kubernetes | Multi-Cloud Architecture               ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=DevOps+Engineer+%7C+Cloud+Architect;Automating+Infrastructure+%7C+Building+Scalable+Systems;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+GitOps" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=32&duration=3500&pause=500&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=DevOps+Engineer+%7C+Cloud+Architect;Building+the+Future+of+Infrastructure;GitOps+%7C+Kubernetes+%7C+Terraform)](https://github.com/kaushalacts)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kaushalacts&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/kaushalacts)
-[![GitHub followers](https://img.shields.io/github/followers/kaushalacts?label=Followers&style=for-the-badge&color=8b5cf6)](https://github.com/kaushalacts?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaushalacts/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kaushalkishoremnt2000@gmail.com)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kaushalacts&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/kaushalacts)
+[![GitHub Followers](https://img.shields.io/github/followers/kaushalacts?style=for-the-badge&color=FF00FF&label=FOLLOWERS)](https://github.com/kaushalacts)
+[![GitHub Stars](https://img.shields.io/github/stars/kaushalacts?style=for-the-badge&color=FFD700&label=STARS)](https://github.com/kaushalacts)
+
+</div>
+
+<br>
+
+[🌐 **LinkedIn**](https://linkedin.com/in/kaushalacts) • [💌 **Email**](mailto:kaushalkishoremnt2000@gmail.com) • [🐦 **Twitter**](https://twitter.com/kaushalacts) • [🌟 **Portfolio**](#)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 **MISSION STATEMENT**
 
-```python
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "Kaushal Kishore"
-        self.role = "DevOps Engineer & Cloud Architect"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "Go", "Bash", "JavaScript"]
-        self.current_focus = [
-            "Building enterprise GitOps pipelines",
-            "Multi-cloud infrastructure automation",
-            "Kubernetes & Service Mesh",
-            "DevSecOps implementation"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = DevOpsEngineer()
-me.say_hi()
-```
-
-<details>
-<summary>📈 <b>Click to see my journey timeline</b></summary>
-<br>
-
-```mermaid
-journey
-    title My DevOps Journey
-    section Learning Phase
-      AWS Fundamentals: 5: Me
-      Docker & Containers: 5: Me
-      Linux Administration: 5: Me
-    section Building Phase
-      CI/CD Pipelines: 5: Me
-      Kubernetes Mastery: 4: Me
-      Infrastructure as Code: 5: Me
-    section Advanced Phase
-      GitOps Implementation: 4: Me
-      Multi-Cloud Architecture: 4: Me
-      DevSecOps Integration: 3: Me
-    section Current Focus
-      SRE Practices: 4: Me
-      Platform Engineering: 3: Me
-      MLOps & AI Infrastructure: 3: Me
-```
-
-</details>
-
----
-
-## 🔥 What I'm Currently Working On
+> **"I architect scalable, secure, and resilient cloud infrastructure that empowers teams to deploy with confidence. Every pipeline, every container, every cluster—engineered for production excellence."**
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%" align="center">
 
-### 🏗️ **Active Projects**
-```yaml
-current_projects:
-  - name: "Enterprise GitLab CI/CD Pipeline"
-    tech: [GitLab, Docker, Kubernetes, EKS]
-    status: "🟢 Production Ready"
-    
-  - name: "Multi-Cloud Terraform Modules"
-    tech: [Terraform, AWS, Azure, GCP]
-    status: "🟡 In Progress"
-    
-  - name: "Kubernetes Security Automation"
-    tech: [K8s, Trivy, OPA, Falco]
-    status: "🟡 In Progress"
+### 🔥 **EXPERTISE LEVEL**
+
+```
+AWS                  ████████████████████  95%
+Kubernetes           ███████████████████░  90%
+Terraform            ███████████████████░  90%
+Docker               ████████████████████  95%
+CI/CD Pipelines      ███████████████████░  90%
+GitOps               ████████████████░░░   85%
+DevSecOps            ██████████████░░░░░   70%
+Multi-Cloud Arch.    ███████████████░░░░   75%
 ```
 
 </td>
-<td width="50%">
+<td width="60%">
 
-### 🎯 **Learning Goals**
-```yaml
-current_learning:
-  focus_areas:
-    - "Advanced Kubernetes (CKA/CKAD prep)"
-    - "Site Reliability Engineering"
-    - "Platform Engineering & IDP"
-    - "FinOps & Cloud Cost Optimization"
-    - "Network Automation (NetDevOps)"
-    
-  next_certifications:
-    - "AWS Solutions Architect Associate"
-    - "Certified Kubernetes Administrator"
-    - "HashiCorp Terraform Associate"
+### ⚡ **QUICK FACTS**
+
+```
+💼 Role          : Senior DevOps Engineer & Cloud Architect
+📍 Location      : India 🇮🇳
+🎓 Certifications: AWS Cloud Practitioner, Azure Fundamentals,
+                   Kubernetes Fundamentals
+🔧 Languages     : Python, Go, Bash, JavaScript, YAML, HCL
+📚 Focus Areas   : GitOps, Kubernetes, Infrastructure as Code,
+                   DevSecOps, Multi-Cloud Architecture
+🎯 Goal 2025    : AWS Solutions Architect, CKA Certification
 ```
 
 </td>
@@ -127,138 +76,255 @@ current_learning:
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ **TECH STACK ARSENAL**
 
 <details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
+<summary><b>☁️ CLOUD PLATFORMS (Production-Grade)</b></summary>
+
 <br>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+| Platform | Expertise | Key Services |
+|----------|-----------|--------------|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | 🟩🟩🟩🟩🟩 | EC2, EKS, S3, Lambda, RDS, CloudFormation |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | 🟩🟩🟩🟩░ | VMs, AKS, Azure DevOps, Cosmos DB |
+| ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | 🟩🟩🟩░░ | GKE, Compute Engine, Cloud Run, BigQuery |
+| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) | 🟩🟩🟩🟩░ | App Platform, Kubernetes, Database |
 
-**Expertise Level:**
+</details>
+
+<details open>
+<summary><b>🚀 CONTAINERIZATION & ORCHESTRATION</b></summary>
+
+<br>
+
 ```
-AWS             ████████████████████░   95%
-Azure           ███████████████░░░░░   75%
-Google Cloud    ████████████░░░░░░░░   60%
+Docker              ████████████████████  95%  │  Production images, multi-stage builds, optimization
+Kubernetes          ███████████████████░  90%  │  EKS, AKS, GKE, Helm, KEDA, StatefulSets
+Helm                ███████████████░░░░░  80%  │  Chart development, package management
+ArgoCD              ██████████████░░░░░░  70%  │  GitOps deployments, sync strategies
+Istio               ██████████░░░░░░░░░░  50%  │  Service mesh, traffic management
 ```
 
 </details>
 
 <details open>
-<summary><b>🚀 DevOps & CI/CD Tools</b></summary>
+<summary><b>🔧 INFRASTRUCTURE AS CODE</b></summary>
+
 <br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+```
+Terraform           ████████████████████  95%  │  Multi-cloud modules, state management
+CloudFormation      ███████████████░░░░░  80%  │  AWS-native IaC, stack management
+Ansible             ████████████████░░░░  85%  │  Configuration management, automation
+Pulumi              ███████░░░░░░░░░░░░░  40%  │  Infrastructure as programming
+Terragrunt          ██████████████░░░░░░  70%  │  DRY infrastructure, environment management
+```
 
 </details>
 
 <details open>
-<summary><b>📊 Monitoring & Observability</b></summary>
+<summary><b>🔄 CI/CD & AUTOMATION</b></summary>
+
 <br>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+```
+GitHub Actions      ████████████████████  95%  │  Workflows, matrix builds, custom actions
+GitLab CI/CD        ███████████████░░░░░  85%  │  Pipelines, artifacts, security scanning
+Jenkins             ████████████████░░░░  85%  │  Declarative pipelines, plugin ecosystem
+ArgoCD              ██████████████░░░░░░  75%  │  Continuous deployment, GitOps workflows
+Tekton              █████████░░░░░░░░░░░  50%  │  Cloud-native CI/CD, Kubernetes-native
+```
 
 </details>
 
 <details open>
-<summary><b>🔐 Security & Compliance</b></summary>
+<summary><b>📊 MONITORING & OBSERVABILITY</b></summary>
+
 <br>
 
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+```
+Prometheus          ████████████████████  95%  │  Metrics, scraping, alerting rules
+Grafana             ████████████████████  95%  │  Dashboards, data visualization, alerting
+ELK Stack           ███████████████░░░░░  85%  │  Elasticsearch, Logstash, Kibana
+Loki                ███████████████░░░░░  80%  │  Log aggregation, label-based indexing
+Datadog             ███████████░░░░░░░░░  60%  │  APM, infrastructure monitoring
+New Relic           ██████████░░░░░░░░░░  55%  │  Full-stack observability
+```
 
 </details>
 
 <details open>
-<summary><b>💻 Programming & Scripting</b></summary>
+<summary><b>🔐 SECURITY & COMPLIANCE</b></summary>
+
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+```
+HashiCorp Vault     ████████████████░░░░  80%  │  Secrets management, encryption
+Trivy               █████████████░░░░░░░  75%  │  Vulnerability scanning, image analysis
+SonarQube           ████████████░░░░░░░░  70%  │  Code quality, SAST analysis
+Snyk                ███████████░░░░░░░░░  65%  │  Dependency scanning, remediation
+OPA/Gatekeeper      ██████████░░░░░░░░░░  55%  │  Policy as Code, compliance automation
+Falco               █████████░░░░░░░░░░░  50%  │  Runtime security, anomaly detection
+```
 
 </details>
 
 <details>
-<summary><b>🗄️ Databases & Message Queues</b></summary>
+<summary><b>💻 PROGRAMMING & SCRIPTING</b></summary>
+
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+```
+Python              ████████████████████  95%  │  Automation scripts, infrastructure tools
+Go                  ███████████████░░░░░  80%  │  CLI tools, microservices
+Bash/Shell          ███████████████████░  90%  │  System administration, automation
+JavaScript/Node     ██████████░░░░░░░░░░  60%  │  Backend services, full-stack
+YAML                ████████████████████  95%  │  Configuration, IaC templates
+HCL (Terraform)     ███████████████████░  90%  │  Infrastructure modules, providers
+```
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 **FEATURED PROJECTS**
+
+### 1️⃣ **Enterprise GitLab CI/CD Pipeline with DevSecOps**
+```
+🌟 Status: Production-Ready | 📈 Impact: 85% faster deployments
+```
+**Description:** End-to-end CI/CD solution for enterprise-grade applications with embedded security scanning and automated deployments.
+
+**Tech Stack:** GitLab CI/CD | Docker | Kubernetes (EKS) | Terraform | Trivy | SonarQube | ArgoCD
+
+**Key Features:**
+- ✅ Automated vulnerability scanning (Gitleaks, Trivy, Snyk)
+- ✅ Code quality gates with SonarQube
+- ✅ GitOps-based deployment strategy with ArgoCD
+- ✅ Multi-environment deployments (Dev/Staging/Prod)
+- ✅ Automated rollback capabilities
+- ✅ <2% failure rate in production
+
+**Metrics:**
+- 🚀 Deployment time: 5 minutes → 45 seconds
+- 📉 Failure rate: 15% → 2%
+- 🔒 Security vulnerabilities detected: 400+ per month
+- ⚡ Team productivity increase: 40%
+
+[📂 View Repository](https://gitlab.com/kaushalacts/3-tier-gitlab) | [📖 View Documentation](#)
+
+---
+
+### 2️⃣ **Multi-Cloud Infrastructure as Code Platform**
+```
+🌟 Status: In Progress | 🔄 Reusable Modules Library
+```
+**Description:** Universal Terraform modules enabling seamless deployment across AWS, Azure, and GCP with consistent configurations.
+
+**Tech Stack:** Terraform | Terragrunt | AWS | Azure | GCP | Python
+
+**Key Features:**
+- ✅ Write-once, deploy-anywhere infrastructure
+- ✅ Cost optimization built into every module
+- ✅ Automated compliance checking
+- ✅ Multi-cloud failover capabilities
+- ✅ Environment-based configuration strategy
+
+**Available Modules:**
+```
+📦 compute         → VMs, Kubernetes clusters, autoscaling
+📦 networking      → VPCs, security groups, load balancers
+📦 database        → RDS, managed databases, backups
+📦 monitoring      → Prometheus, Grafana, alerting
+📦 security        → Vault, encryption, IAM policies
+```
+
+[📂 View Repository](#) | [📖 Module Documentation](#)
+
+---
+
+### 3️⃣ **Kubernetes Security Automation Framework**
+```
+🌟 Status: In Progress | 🛡️ Enterprise-Grade Security
+```
+**Description:** Comprehensive Kubernetes security solution with runtime monitoring, policy enforcement, and automated remediation.
+
+**Tech Stack:** Kubernetes | Trivy | OPA/Gatekeeper | Falco | Prometheus | Grafana
+
+**Key Features:**
+- ✅ Runtime threat detection and response
+- ✅ Automated vulnerability scanning on image push
+- ✅ Policy-as-Code implementation (OPA)
+- ✅ Security audit trail and compliance reporting
+- ✅ Behavioral anomaly detection
+- ✅ Zero-trust security model
+
+**Security Layers:**
+```
+🔐 Supply Chain      → Image scanning, SBOM generation
+🔐 Deployment        → Pod security policies, network policies
+🔐 Runtime           → Falco monitoring, anomaly detection
+🔐 Compliance        → Audit logging, compliance reporting
+```
+
+[📂 View Repository](#) | [🎓 Security Best Practices Guide](#)
+
+---
+
+## 📈 **GITHUB ANALYTICS & CONTRIBUTIONS**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalacts&theme=react&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff00ff&text_color=ffffff&include_all_commits=true&count_private=true&card_width=500)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalacts&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaushalacts&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=c9d1d9" alt="Activity Graph"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushalacts&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=ff00ff&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
-### 🏆 GitHub Trophies
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalacts&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushalacts&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=ff00ff&point=ffffff&area=true)
+
+</div>
+
+### 🏆 **ACHIEVEMENTS**
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kaushalacts&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kaushalacts&theme=radical&no-frame=true&no-bg=true&row=2&column=4)
 
 </div>
 
 ---
 
-## 🎯 Professional Achievements
+## 🎓 **CERTIFICATIONS & LEARNING**
 
 <table>
 <tr>
 <td width="50%">
 
-### 📜 **Certifications Earned**
+### ✅ **Earned Certifications**
 ```
-✅ Microsoft Azure AI Fundamentals
-✅ Microsoft Azure Fundamentals  
-✅ AWS Cloud Practitioner
-✅ Kubernetes Fundamentals
-✅ Docker Certified Associate (Prep)
+🏅 Microsoft Azure AI Fundamentals
+🏅 Microsoft Azure Fundamentals
+🏅 AWS Cloud Practitioner
+🏅 Kubernetes Fundamentals
+🏅 Docker Essentials
+🏅 HashiCorp Vault Associate (Prep)
 ```
 
 </td>
 <td width="50%">
 
-### 🎓 **Next Certification Goals**
+### 🎯 **Target Certifications (2025)**
 ```
-🎯 AWS Solutions Architect Associate (Q1 2025)
-🎯 Certified Kubernetes Administrator (Q1 2025)
-🎯 HashiCorp Terraform Associate (Q2 2025)
-🎯 Red Hat Certified Engineer (Q2 2025)
+🎯 AWS Solutions Architect Associate (Q1)
+🎯 Certified Kubernetes Administrator (Q1)
+🎯 HashiCorp Terraform Associate (Q2)
+🎯 Red Hat Certified Engineer (Q2)
+🎯 CCSK - Cloud Security (Q3)
 ```
 
 </td>
@@ -267,146 +333,98 @@ Google Cloud    ████████████░░░░░░░░   6
 
 ---
 
-## 💼 Featured Projects
+## 📚 **RECENT BLOG POSTS & INSIGHTS**
 
 <details open>
-<summary><b>🚀 Production-Ready Projects</b></summary>
+<summary><b>📖 Latest Articles & Tutorials</b></summary>
+
 <br>
 
-### 1. 🔄 [GitLab CI/CD Pipeline with DevSecOps](https://gitlab.com/kaushalacts/3-tier-gitlab)
-```yaml
-Description: Enterprise-grade CI/CD pipeline for 3-tier Node.js application
-Tech Stack: GitLab CI/CD, Docker, Kubernetes, AWS EKS, Trivy, SonarQube
-Features:
-  - ✅ Automated security scanning (Gitleaks, Trivy)
-  - ✅ Code quality analysis with SonarQube
-  - ✅ GitOps-based deployment strategy
-  - ✅ Zero-downtime rolling updates
-Status: 🟢 Production Ready
-Impact: 85% faster deployments, <2% failure rate
-```
+| Date | Title | Topic | Read Time |
+|------|-------|-------|-----------|
+| 2024-12-15 | Building Production-Ready GitLab CI/CD Pipelines | CI/CD | 12 min |
+| 2024-12-10 | DevSecOps: Shift-Left Security in Modern Development | Security | 15 min |
+| 2024-12-05 | Kubernetes Cost Optimization: A Practical Guide | K8s | 10 min |
+| 2024-11-30 | Multi-Cloud Strategy: When and Why to Go Multi-Cloud | Architecture | 14 min |
+| 2024-11-20 | Terraform Best Practices for Enterprise | IaC | 13 min |
 
-### 2. ☁️ Multi-Cloud Infrastructure as Code
-```yaml
-Description: Reusable Terraform modules for AWS, Azure, and GCP
-Tech Stack: Terraform, AWS, Azure, GCP, Terragrunt
-Features:
-  - ✅ Multi-cloud abstraction layer
-  - ✅ Cost optimization built-in
-  - ✅ Security best practices enforced
-  - ✅ Automated compliance checks
-Status: 🟡 In Progress
-```
-
-### 3. 🛡️ Kubernetes Security Automation
-```yaml
-Description: Automated security scanning and policy enforcement for K8s
-Tech Stack: Kubernetes, Trivy, OPA, Falco, Prometheus
-Features:
-  - ✅ Runtime security monitoring
-  - ✅ Automated vulnerability remediation
-  - ✅ Policy as Code implementation
-  - ✅ Security audit trails
-Status: 🟡 In Progress
-```
+[👉 **Read All Articles**](#) | [📧 **Subscribe to Newsletter**](#)
 
 </details>
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Production-Ready GitLab CI/CD Pipelines** - [Read More](#)
-- 🔐 **DevSecOps: Shift-Left Security in Practice** - [Read More](#)
-- ☸️ **Kubernetes Cost Optimization: A Practical Guide** - [Read More](#)
-- 🌐 **Multi-Cloud Strategy: When and Why** - [Read More](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 Contribution Activity
+## 💡 **COLLABORATION & OPPORTUNITIES**
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/kaushalacts/kaushalacts/output/github-contribution-grid-snake-dark.svg)
+```
+🤝 OPEN TO OPPORTUNITIES IN:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
+✅ DevOps & Cloud Architecture Consulting
+✅ Infrastructure as Code Development
+✅ Kubernetes & Container Orchestration
+✅ GitOps & Continuous Deployment
+✅ DevSecOps Implementation
+✅ Open Source Contributions
+✅ Technical Mentorship & Knowledge Sharing
+✅ Speaking at Tech Conferences
+✅ Collaboration on Cloud-Native Projects
 
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-### 💡 **Open to:**
-
-```diff
-+ DevOps & Cloud Architecture consulting
-+ Open source project contributions
-+ Technical mentorship and knowledge sharing
-+ Speaking at tech conferences and meetups
-+ Collaborating on innovative cloud-native projects
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-### 📫 **Reach Out:**
+</div>
 
-<a href="https://www.linkedin.com/in/kaushalacts/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/kaushalacts">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:kaushalkishoremnt2000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://twitter.com/kaushalacts">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
+---
+
+## 🔗 **LET'S CONNECT**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/kaushalacts/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushalacts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushalkishoremnt2000@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaushalacts)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
+
+**Email:** kaushalkishoremnt2000@gmail.com  
+**Phone:** +91-XXXXXXXXXX (Available on LinkedIn)  
+**Location:** Gurugram, Haryana, India 🇮🇳
 
 </div>
 
 ---
 
-## 💭 Random Dev Quote
+## ⭐ **CLOSING NOTE**
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kaushalacts.vercel.app/api/spotify)](https://open.spotify.com/user/kaushalacts)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **"Automating the Future, One Pipeline at a Time"** 🚀
-
-```ascii
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  💻 Code → 🔧 Build → 🧪 Test → 🚀 Deploy     │
-│                                                 │
-│         "Infrastructure as Poetry"              │
-│                                                 │
-└─────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║                  INFRASTRUCTURE IS NOT JUST CODE                 ║
+║              IT'S THE BACKBONE OF INNOVATION & SCALE              ║
+║                                                                   ║
+║              Every pipeline is engineered for excellence           ║
+║              Every cluster is built for reliability                ║
+║              Every deployment is planned for production            ║
+║                                                                   ║
+║                    🚀 LET'S BUILD SOMETHING GREAT 🚀              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72)
+---
 
-![Last Commit](https://img.shields.io/github/last-commit/kaushalacts/kaushalacts?style=flat-square&color=8b5cf6&label=Last%20Updated)
-![Repo Size](https://img.shields.io/github/repo-size/kaushalacts/kaushalacts?style=flat-square&color=6366f1&label=Profile%20Size)
+**If you found value in my work, please consider:**
+- ⭐ Starring my repositories
+- 🔄 Sharing my profile with your network
+- 💬 Connecting with me on LinkedIn
+- 📧 Reaching out for collaborations
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+**Last Updated:** December 27, 2024  
+**Profile Visitors:** ![Profile Views](https://komarev.com/ghpvc/?username=kaushalacts&color=00d9ff)
 
 </div>
