@@ -1,99 +1,143 @@
-# Hey, I'm Kaushal Kishore 👋
+# 👋 Kaushal Kishore
 
-DevOps Engineer | Cloud Enthusiast | Building Infrastructure
-
----
-
-## About Me
-
-I'm a DevOps engineer passionate about automating infrastructure, managing cloud platforms, and building scalable systems. I enjoy working with Kubernetes, Docker, and Infrastructure as Code tools. Always learning new technologies and best practices in the DevOps space.
-
-- 📍 Based in India
-- 💼 Working on DevOps and Cloud Architecture
-- 🎯 Current Focus: Kubernetes, Terraform, CI/CD Pipelines
-- 📚 Always Learning: AWS, GitOps, DevSecOps
+> **DevOps Engineer** building scalable cloud infrastructure | **Cloud Architect** automating the future
 
 ---
 
-## Tech Stack
+## 🚀 What I Do
 
-**Cloud Platforms**
+I architect and automate cloud infrastructure at scale. I turn complex deployment challenges into elegant, repeatable processes. My sweet spot is the space where **infrastructure meets automation**.
+
+```
+Code → Build → Test → Deploy → Monitor → Scale
+```
+
+---
+
+## 🔥 Tech I Work With
+
+<table>
+<tr>
+<td width="50%">
+
+**Cloud & Infrastructure**
 - AWS, Azure, Google Cloud
+- Kubernetes, Docker
+- Terraform, CloudFormation
+- Helm, Ansible
 
-**Containers & Orchestration**
-- Docker, Kubernetes (EKS, AKS, GKE), Helm
+</td>
+<td width="50%">
 
-**Infrastructure as Code**
-- Terraform, Ansible, CloudFormation
+**CI/CD & Automation**
+- GitHub Actions
+- GitLab CI/CD
+- ArgoCD, Jenkins
+- Infrastructure as Code
 
-**CI/CD Tools**
-- GitHub Actions, GitLab CI, Jenkins, ArgoCD
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Monitoring & Logging**
-- Prometheus, Grafana, ELK Stack, Loki
+**Monitoring & Observability**
+- Prometheus + Grafana
+- ELK Stack / Loki
+- Application Performance Monitoring
 
-**Programming Languages**
-- Python, Bash, Go, JavaScript, YAML
+</td>
+<td width="50%">
 
-**Other Tools**
-- Git, Linux, Vault, Trivy, SonarQube
+**Languages & Tools**
+- Python, Bash, Go
+- YAML, HCL
+- Git, Linux
+- API Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Projects
+## 💻 What I'm Building
 
-### GitLab CI/CD Pipeline
-Building automated deployment pipelines with security scanning and multi-environment support.
-- **Tech**: GitLab CI/CD, Docker, Kubernetes, Terraform
-- **Features**: Automated testing, security scanning, GitOps deployment
+### 🔄 **CI/CD Pipeline Automation**
+Designing GitLab and GitHub workflows that handle testing, security scanning, and deployments automatically. Making developers' lives easier.
 
-### Multi-Cloud Infrastructure
-Exploring Infrastructure as Code across AWS, Azure, and GCP using Terraform.
-- **Tech**: Terraform, AWS, Azure, GCP
-- **Goal**: Create reusable modules for consistent deployments
+### ☸️ **Kubernetes at Scale**
+Running containerized applications on Kubernetes. Learning about networking, storage, security, and making it production-ready.
 
-### Kubernetes Learning
-Deep diving into Kubernetes concepts, best practices, and production patterns.
-- **Tech**: Kubernetes, Helm, monitoring, security
+### 🌍 **Infrastructure as Code**
+Writing Terraform modules to spin up cloud infrastructure consistently across AWS, Azure, and GCP.
+
+### 📊 **Monitoring & Alerts**
+Building dashboards and alert systems so we know *exactly* what's happening in production, before users do.
 
 ---
 
-## Certifications & Learning
+## 📈 Currently Learning
+
+```
+Certified Kubernetes Administrator (CKA)    → Q1 2025
+AWS Solutions Architect Associate          → Q1 2025  
+Advanced Terraform Patterns                → Q2 2025
+GitOps Best Practices                       → Ongoing
+```
 
 **Completed**
-- Microsoft Azure Fundamentals
-- AWS Cloud Practitioner
-- Kubernetes Fundamentals
-
-**In Progress**
-- AWS Solutions Architect Associate
-- Certified Kubernetes Administrator (CKA)
+- ✅ Azure Fundamentals
+- ✅ AWS Cloud Practitioner  
+- ✅ Kubernetes Fundamentals
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=github_light)
-
----
-
-## Let's Connect
-
-- **LinkedIn**: [linkedin.com/in/kaushalacts](https://linkedin.com/in/kaushalacts)
-- **Email**: kaushalkishoremnt2000@gmail.com
-- **Twitter**: [@kaushalacts](https://twitter.com/kaushalacts)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## What I'm Up To
+## 🎯 How I Think
 
-- 🔨 Building automation scripts and CI/CD pipelines
-- 📖 Reading about cloud architecture and DevOps practices
-- 🗣️ Open to discussing infrastructure automation and cloud solutions
-- 🤝 Happy to help with Docker, Kubernetes, or Terraform questions
+- **Automate first** - If you're doing it manually twice, automate it
+- **Security always** - DevSecOps from the start, not as an afterthought
+- **Monitor everything** - What you can't measure, you can't optimize
+- **Keep it simple** - Complex infrastructure that breaks is worse than simple infrastructure that works
+- **Document ruthlessly** - Good documentation is as valuable as good code
 
 ---
 
-⭐ If you find my work useful, feel free to star my repositories!
+## 🤝 Let's Talk
 
-**Last Updated**: December 2024
+I'm interested in:
+- DevOps challenges and solutions
+- Cloud architecture discussions
+- Kubernetes best practices
+- CI/CD pipeline improvements
+- Infrastructure automation ideas
+
+**Reach out:**
+- 📧 [Email](mailto:kaushalkishoremnt2000@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/kaushalacts)
+- 🐦 [Twitter](https://twitter.com/kaushalacts)
+
+---
+
+## 🌟 Quick Facts
+
+- 🏠 Based in Gurugram, Haryana, India
+- 💡 Passionate about DevOps, Cloud, and Automation
+- 📚 Constant learner - reading about infrastructure daily
+- 🔧 Love solving real problems with elegant solutions
+- 🎯 Goal: Build systems that scale gracefully
+
+---
+
+<div align="center">
+
+**Building robust infrastructure, one container at a time** 🚀
+
+*Last updated: December 2024*
+
+</div>
