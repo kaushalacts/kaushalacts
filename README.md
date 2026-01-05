@@ -134,7 +134,7 @@ Building comprehensive observability ecosystems:
 - **Prometheus** for metrics collection and alerting
 - **Grafana** for beautiful dashboards and SLOs
 - **ELK Stack** for log aggregation and analysis
-- **Loki** for efficient log storage and querying
+- Loki for efficient log storage and querying
 - Custom metrics and intelligent alerting rules
 ---
 ## 📈 Learning & Growth
