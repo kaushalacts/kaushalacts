@@ -1,257 +1,125 @@
-# 👋 Kaushal Kishore
+# Kaushal Kishore
 
-<div align="center">
+### Senior DevOps & MLOps Engineer | AWS + Azure | Kubernetes • Terraform • CI/CD
 
-### DevOps Engineer • Cloud Infrastructure Architect
-**Building resilient, scalable systems that empower teams**
+Building production infrastructure that engineering teams don't have to babysit — and sticking around to maintain it.
 
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge)](https://linkedin.com/in/kaushalacts)
-[![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge)](https://github.com/kaushalacts)
-[![Focus](https://img.shields.io/badge/Focus-Infrastructure%20Automation-orange?style=for-the-badge)](https://github.com/kaushalacts)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushalacts)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@kaushalacts)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushalkishoremnt2000@gmail.com)
+[![Black Hat USA 2025](https://img.shields.io/badge/Black%20Hat%20USA-2025%20Featured-000000?style=flat-square)](https://github.com/CloudlensHQ/cloudlens-project)
 
 ---
 
-## 🚀 What I Do
+## About
 
-I architect and automate cloud infrastructure at scale. I turn complex deployment challenges into elegant, repeatable processes. My sweet spot is the space where **infrastructure meets automation**.
+DevOps & SRE Engineer with **3+ years** of production experience across cloud infrastructure, CI/CD automation, and observability stacks. Currently extending into **MLOps and AIOps** for teams shipping AI products.
 
-<div align="center">
+My work has been featured at **Black Hat USA 2025** (Cloud Lens — AWS security scanning platform), and I'm an open-source contributor to **Google's distroless project**. I hold **Microsoft Azure DevOps Expert (AZ-400)** and **Azure Administrator (AZ-104)** certifications.
 
-```
-Code → Build → Test → Deploy → Monitor → Scale
- ↓      ↓       ↓       ↓        ↓        ↓
-Commit Quality Security GitOps Metrics Reliability
-```
-
-</div>
----
-## 🔥 Tech I Work With
-
-<details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
-
-| Platform | Services |
-|----------|----------|
-| **AWS** | EC2, RDS, S3, Lambda, ECS, VPC, CloudFormation, IAM |
-| **Azure** | VMs, App Service, AKS, Azure DevOps, Container Registry |
-| **Google Cloud** | Compute Engine, GKE, Cloud Functions, Cloud SQL |
-
-</details>
-
-<details open>
-<summary><b>📦 Container & Orchestration</b></summary>
-
-| Tool | Expertise |
-|------|-----------|
-| **Docker** | Multi-stage builds, image optimization, registry management |
-| **Kubernetes** | Helm charts, StatefulSets, DaemonSets, network policies |
-| **Helm** | Chart templating, dependency management, releases |
-
-</details>
-
-<details open>
-<summary><b>🔧 Infrastructure Automation</b></summary>
-
-| Tool | Usage |
-|------|-------|
-| **Terraform** | Modular architecture, remote state, CI/CD integration |
-| **CloudFormation** | Stack templates, change sets, nested stacks |
-| **Ansible** | Configuration management, playbook orchestration |
-
-</details>
-
-<details open>
-<summary><b>🚀 CI/CD & Automation</b></summary>
-
-| Platform | Implementation |
-|----------|-----------------|
-| **GitHub Actions** | Workflows, matrix builds, artifacts, environments |
-| **GitLab CI/CD** | Pipelines, stages, manual gates, caching strategies |
-| **ArgoCD** | GitOps principles, application sync, multi-cluster |
-| **Jenkins** | Declarative pipelines, shared libraries, integration |
-
-</details>
-
-<details open>
-<summary><b>📊 Monitoring & Observability</b></summary>
-
-| Stack | Purpose |
-|-------|---------|
-| **Prometheus** | Metrics collection, service discovery, alerting rules |
-| **Grafana** | Dashboards, alerting, notification channels, SLOs |
-| **ELK Stack** | Log aggregation, parsing, visualization, analysis |
-| **Loki** | Log storage optimization, label strategies |
-
-</details>
-
-<details open>
-<summary><b>💻 Languages & Tools</b></summary>
-
-| Language | Purpose |
-|----------|---------|
-| **Python** | Automation scripts, AWS/Azure SDK tools, utilities |
-| **Bash** | System administration, deployment automation |
-| **Go** | Performance-critical tools, cloud-native projects |
-| **YAML/HCL** | Infrastructure definitions, configuration |
-
-</details>
----
-## 💻 Core Expertise Areas
-
-### 🔄 CI/CD Pipeline Architecture
-```
-Code Push → GitHub Actions/GitLab CI
-         → Automated Testing Suite
-         → Security Scanning (SAST/DAST)
-         → Terraform Plan & Review
-         → ArgoCD Sync to Staging
-         → Smoke Tests
-         → Blue-Green Deployment
-         → Production Live ✅
-```
-Designing multi-stage deployment pipelines with automated testing, security scanning, and intelligent rollback strategies. Making deployments fast and safe.
-
-### ☸️ Kubernetes at Scale
-Running production-grade Kubernetes clusters with deep expertise in:
-- **Networking:** Service meshes, ingress controllers, network policies
-- **Storage:** PersistentVolumes, dynamic provisioning, backup strategies
-- **Security:** RBAC, Pod Security Policies, network segmentation
-- **Resource Management:** HPA, VPA, cost optimization
-- **Observability:** Metrics, logs, traces integrated into operations
-
-### 🌍 Infrastructure as Code
-Writing reusable, testable Terraform modules that:
-- ✅ Deploy consistent infrastructure across AWS, Azure, GCP
-- ✅ Implement security best practices by default
-- ✅ Support multiple environments from single codebase
-- ✅ Include automated testing and validation
-- ✅ Scale efficiently without manual intervention
-
-### 📊 Monitoring & Alerts
-Building comprehensive observability ecosystems:
-- **Prometheus** for metrics collection and alerting
-- **Grafana** for beautiful dashboards and SLOs
-- **ELK Stack** for log aggregation and analysis
-- Loki for efficient log storage and querying
-- Custom metrics and intelligent alerting rules
----
-## 📈 Learning & Growth
-
-**Current Focus Areas:**
-- 🎯 Advanced Kubernetes patterns and operators
-- 🎯 Service mesh implementations (Istio, Linkerd)
-- 🎯 Infrastructure testing and validation frameworks
-- 🎯 Cloud cost optimization strategies
-- 🎯 GitOps maturity and scaling patterns
-
-**Proven Competencies:**
-- ✅ Docker containerization and optimization
-- ✅ Kubernetes fundamentals and advanced patterns
-- ✅ Terraform infrastructure coding
-- ✅ CI/CD pipeline design and implementation
-- ✅ Prometheus and Grafana monitoring setup
-- ✅ AWS, Azure, and Google Cloud administration
-- ✅ Infrastructure automation with Ansible
-- ✅ Python and Bash scripting for DevOps
-
-**Completed:**
-- ✅ Azure Fundamentals
-- ✅ AWS Cloud Practitioner  
-- ✅ Kubernetes Fundamentals
----
-## ✨ Key Achievements
-
-### Infrastructure Reliability
-Architected and maintained Kubernetes clusters supporting production workloads. Designed CI/CD pipelines reducing deployment time and human error. Implemented comprehensive monitoring reducing incident detection time significantly.
-
-### Automation Impact
-Created reusable Terraform modules accelerating infrastructure provisioning. Developed CI/CD workflows automating testing, security scanning, and deployments. Implemented GitOps patterns enabling safer infrastructure changes at scale.
-
-### Cloud Architecture
-Multi-cloud infrastructure design across AWS, Azure, and GCP. Cost optimization strategies through resource right-sizing and automation. Security-hardened cloud environments with proper isolation and access control mechanisms.
-
-### DevSecOps Integration
-Embedded security practices into infrastructure pipelines from ground up. Implemented container scanning and vulnerability management. Built secrets management and rotation strategies across environments.
----
-## 🎯 My Engineering Philosophy
-
-| Principle | Why It Matters |
-|-----------|----------------|
-| **Automate first** | Manual processes are error-prone and don't scale. If you're doing it manually twice, automate it |
-| **Security always** | DevSecOps from the start, not as an afterthought. Security decisions are made early |
-| **Monitor everything** | What you can't measure, you can't optimize. Comprehensive visibility prevents surprises |
-| **Keep it simple** | Complex infrastructure that breaks is worse than simple infrastructure that works reliably |
-| **Document ruthlessly** | Good documentation is as valuable as good code. Clear docs prevent knowledge silos |
-| **Reliability > Velocity** | Fast systems that break are worse than slow systems that work. Build for reliability first |
-
-### Problem-First Thinking
-Before implementing, I understand the underlying problem, constraints, and success metrics. A perfect solution to the wrong problem is still wrong.
-
-### Root Cause Analysis
-When things break, I dig deeper than the symptom. Understanding *why* systems fail prevents the same failure from happening again.
-
-### Team Enablement
-Good infrastructure serves the team. I build systems that make developers more productive, operations more reliable, and deployments more confident.
----
-## 🤝 Let's Connect
-
-I'm genuinely interested in:
-- 🏗️ **Architectural Challenges** → How to design systems at scale
-- ⚙️ **Automation Innovation** → Reducing manual toil through clever solutions
-- ☸️ **Kubernetes Complexity** → Best practices, troubleshooting, optimization
-- 🚀 **DevOps Evolution** → Industry trends, tools, and methodologies
-- 📊 **Observability Patterns** → Building visibility into complex systems
-- 💡 **Infrastructure Challenges** → Real problems, creative solutions
-
-### Let's Talk:
-- 📧 **Email:** [kaushalkishoremnt2000@gmail.com](mailto:kaushalkishoremnt2000@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/kaushalacts](https://linkedin.com/in/kaushalacts)
-- 🐙 **GitHub:** [github.com/kaushalacts](https://github.com/kaushalacts)
-- 🐦 **Twitter:** [@kaushalacts](https://twitter.com/kaushalacts)
+I document everything I build, communicate proactively, and design systems my future self would be happy to inherit.
 
 ---
 
-## 📊 Quick Stats
+## What I Do
 
-| Metric | Value |
-|--------|-------|
-| **Location** | Gurugram, Haryana, India 🇮🇳 |
-| **Experience** | 2+ years (DevOps & Cloud Infrastructure) |
-| **Specialization** | Infrastructure Automation, Cloud Native, CI/CD |
-| **Focus Area** | Reliability, Scalability, Automation |
-| **Learning Style** | Hands-on, practical, real-world challenges |
-| **Vision** | Systems that scale gracefully, operate reliably |
+**Cloud Infrastructure** — Production-grade systems on AWS (EKS, ECS/Fargate, Lambda, RDS, VPC, IAM, CloudWatch) and Azure (AKS, ACR, Azure DevOps). Reduced provisioning time by 70% through reusable Terraform modules.
+
+**Kubernetes & Containers** — Production EKS/AKS clusters maintaining 99.9%+ uptime. HPA, cluster autoscaling, GitOps via Argo CD + Helm, GPU workload scheduling for ML pipelines.
+
+**CI/CD Automation** — Jenkins, GitHub Actions, GitLab CI, Azure DevOps, Bitbucket Pipelines. Cut deployment cycle time by ~40% on current engagement through parallelized pipelines and zero-downtime patterns.
+
+**MLOps & AIOps** — Model training/deployment pipelines (SageMaker, Azure ML, MLflow, Kubeflow), feature stores, drift detection, automated retraining. AIOps anomaly detection on metrics and logs with predictive alerting.
+
+**Observability** — Datadog, ELK Stack, Prometheus + Grafana + Loki, CloudWatch. Reduced MTTD from 45 minutes to under 8 minutes on production services.
+
+**Security & Compliance** — IAM hardening, AD/LDAP access management, DLP policy monitoring, CodeQL SAST, supply-chain security. Zero critical findings in quarterly AWS Security Hub reviews.
 
 ---
 
-## 🌟 What Drives Me
+## Tech Stack
 
-- 💡 Passionate about DevOps, Cloud, and Automation
-- 📚 Constant learner - reading about infrastructure daily
-- 🔧 Love solving real problems with elegant solutions
-- 🎯 Goal: Build systems that scale gracefully and serve teams well
-- 🚀 Believe infrastructure is the foundation of great products
+**Cloud** &nbsp; AWS · Azure  
+**Containers & Orchestration** &nbsp; Docker · Kubernetes (EKS, AKS) · Helm · Argo CD  
+**IaC** &nbsp; Terraform · CloudFormation · Ansible  
+**CI/CD** &nbsp; Jenkins · GitHub Actions · GitLab CI · Azure DevOps · Bitbucket Pipelines  
+**Monitoring** &nbsp; Datadog · Prometheus · Grafana · Loki · ELK Stack · CloudWatch · Metabase  
+**Languages** &nbsp; Python · Bash · YAML · HCL  
+**Databases** &nbsp; PostgreSQL · Redis · MongoDB · SQL Server · Databricks  
+**MLOps** &nbsp; MLflow · Kubeflow · SageMaker · Azure ML
+
+---
+
+## Featured Work
+
+### 🏆 Cloud Lens — AWS Security Scanning Platform
+*Featured at Black Hat USA 2025*
+
+Built CI/CD automation framework for a multi-service TypeScript/Python repository with cross-language matrix pipelines. Enabled CodeQL SAST scanning, integrated Dependabot for supply-chain security, and automated Docker image publishing to GHCR.
+
+[View Project →](https://github.com/CloudlensHQ/cloudlens-project)
+
+### Google distroless — Open Source Contribution
+
+Identified a critical Python version mismatch between builder and runtime images causing ABI failures in containerized Python workloads. Authored documentation to resolve the issue for the broader community.
+
+[View Contribution →](https://github.com/kaushalacts/distroless)
+
+---
+
+## Experience Highlights
+
+**DevOps / SRE Engineer** — Eureka Forbes (Project Engagement) · Feb 2026 – Present  
+Production monitoring, ELK Stack, Datadog, AD/LDAP access management, DLP policy validation, Bitbucket + Azure DevOps CI/CD across 6+ microservices.
+
+**DevOps Engineer** — HCLTech · Feb 2024 – Jan 2026  
+AWS EKS production clusters, Jenkins CI/CD, Terraform IaC, ELK + Prometheus + Grafana observability, AWS Security Hub compliance, IAM hardening.
+
+---
+
+## Certifications
+
+- **Microsoft Certified: Azure DevOps Engineer Expert** (AZ-400)
+- **Microsoft Certified: Azure Administrator Associate** (AZ-104)
+- **Microsoft Certified: Azure AI Fundamentals** (AI-900)
+
+---
+
+## Engineering Principles
+
+I work by a few non-negotiables: automate anything done manually twice, treat security as a default rather than an afterthought, document like the next person joining the team has zero context, and prioritize reliability over velocity. Complex infrastructure that breaks is worse than simple infrastructure that works.
+
+---
+
+## Writing
+
+I publish on Hashnode covering DevOps, CI/CD, MLOps, Kubernetes, and cloud security — practical insights from production environments, not tutorials repackaged from documentation.
+
+[Read my blog →](https://hashnode.com/@kaushalacts)
+
+---
+
+## Currently Open To
+
+- Long-term retainer engagements (20-40 hrs/week)
+- MLOps platform builds for AI/ML companies
+- Cloud infrastructure modernization projects
+- Open-source collaboration on infrastructure tooling
+
+---
+
+## Get In Touch
+
+📧 **Email** &nbsp; kaushalkishoremnt2000@gmail.com  
+💼 **LinkedIn** &nbsp; [linkedin.com/in/kaushalacts](https://linkedin.com/in/kaushalacts)  
+✍️ **Blog** &nbsp; [hashnode.com/@kaushalacts](https://hashnode.com/@kaushalacts)  
+📍 **Location** &nbsp; India · Available for US/EU time zone overlap
+
 ---
 
 <div align="center">
 
-### 🚀 Building Infrastructure That Powers Innovation
-
-**DevOps is the bridge between infrastructure and business outcomes.**
-
----
-
-#### Open to:
-- ✅ Full-time DevOps/Infrastructure roles
-- ✅ Challenging technical problems requiring creative solutions
-- ✅ Collaboration on open-source infrastructure projects
-- ✅ Knowledge sharing and mentoring opportunities
-
----
-
-**Last Updated: December 2024**  
-*Actively building • Continuously learning • Always optimizing*
+![Profile Views](https://komarev.com/ghpvc/?username=kaushalacts&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/kaushalacts?style=flat-square&color=blue)
 
 </div>
