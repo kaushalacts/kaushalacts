@@ -137,11 +137,12 @@ AWS EKS production clusters, Jenkins CI/CD, Terraform IaC, ELK + Prometheus + Gr
 
 <div align="center">
 
-![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalacts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaushalacts&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kaushalacts&theme=tokyonight&hide_border=true)
+
+[![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushalacts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/kaushalacts)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalacts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/kaushalacts)
 
 </div>
 
